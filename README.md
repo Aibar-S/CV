@@ -28,7 +28,7 @@ Senior Reservoir Modeling Engineer
 - Various Python scripts development for reservoir simulator: gas lift amount allocation, different guide rates allocation logic, pattern balancing logic for water/gas/polymer injection
 - Power BI dashboard to compare properties from different grids
 
-**Schlumberger** (2012-2018)
+**Schlumberger** (2012-2018)   
 Senior Reservoir Engineer
 - ML Assisted history matching projects for NOC & IOC
 - Uncertainty, Sensitivity analysis and Production optimization
@@ -36,7 +36,7 @@ Senior Reservoir Engineer
 - Built various polynomial regression models and predicted oil and gas production rates for 1-5 years using Time series forecasting
 
 ## 🔬 Research Experience
-**Nazarbayev University** (2020-2024)
+**Nazarbayev University** (2020-2024)   
 Research
 - CO2 sequestration modelling and uncertainty study using Machine learning algorithms. Article is published in Energies journal: [publication is here](https://doi.org/10.3390/en14238023) & presented at InterPore conference in Abu-Dhabi, UAE
 - Foam injection studies

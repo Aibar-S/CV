@@ -12,7 +12,7 @@ Expert in reservoir simulation with Advanced Analytics and Programming skills, D
 - Other tools: Git, Jupytr Notebook, Linux Bash, HTML
 
 ## 💼 Work experience
-**Karachaganak Petroleum Operating JV (Chevron, Shell, ENI, Lukoil, KazMunayGas)** (2018-present)   
+**Karachaganak Petroleum Operating (Joint Venture: Chevron, Shell, ENI, Lukoil, KazMunayGas)** (2018-present)   
 Senior Reservoir Modeling Engineer
 - Automation of engineering tasks with Python PyAutoGUI
 - Uncertainty and sensitivity analysis of the field / model

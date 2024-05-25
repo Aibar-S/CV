@@ -1,6 +1,6 @@
 title: Aibar Kamashev
 
-description: Expert in reservoir simulation with Advanced Analytics and Programming skills, Data Science & Machine Learning & Databases knowledge and strong Mathematical background
+description: Data Science and Reservoir Simulation Engineering
 
 show_downloads: true # Fix spelling
 
@@ -9,4 +9,4 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-email: youremail@gmail.com # Allow visitors to contact you
+email: aibar.kamashev@gmail.com

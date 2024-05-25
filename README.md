@@ -41,7 +41,7 @@ Research
 - CO2 sequestration modelling and uncertainty study using Machine learning algorithms. Article is published in Energies journal: [publication is here](https://doi.org/10.3390/en14238023) & presented at InterPore conference in Abu-Dhabi, UAE
 - Foam injection studies
 
-**Datanomix** (September, 2020)
+**Datanomix** (September, 2020)   
 Robotic process automation engineer
 - Automation of various tasks with UiPath software and Python
 

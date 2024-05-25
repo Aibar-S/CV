@@ -46,9 +46,9 @@ Robotic process automation engineer
 - Automation of various tasks with UiPath software and Python
 
 ## 🎓 Education
-**BSc in Computer Science** | TUSUR, Russia | 2017-2022 | BSc project: Software for correction of well test rates built with Python
-**MSc in Petroleum engineering** | Heriot-Watt University, UK | 2010-2011 | Degree with Distinction | MSc project: CO2 geological sequestration in Bunter formation, UK
-**BSc in Petroleum engineering** | Satbayev University, KZ | 2006-2010 | Degree with Distinction (GPA: 3.97/4) | BSc project: Increasing oil production by vibration/wave technology
+**BSc in Computer Science** | TUSUR, Russia | 2017-2022 | BSc project: Software for correction of well test rates built with Python   
+**MSc in Petroleum engineering** | Heriot-Watt University, UK | 2010-2011 | Degree with Distinction | MSc project: CO2 geological sequestration in Bunter formation, UK   
+**BSc in Petroleum engineering** | Satbayev University, KZ | 2006-2010 | Degree with Distinction (GPA: 3.97/4) | BSc project: Increasing oil production by vibration/wave technology   
 
 ## Projects
 **Streamlit app to predict Drilling Rate of Penetration** ([link](https://rop-prediction.streamlit.app/))  

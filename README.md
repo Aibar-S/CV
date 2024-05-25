@@ -11,7 +11,7 @@ Expert in reservoir simulation with Advanced Analytics and Programming skills, D
 - Software tools: INTERSECT, ECLIPSE, t-Navigator, Nexus, VIP, Petrel, PVTi, SCAL, MEPO, PIPESIM, OFM, Avocet IAM, Saphir, GAP, Prosper, MBAL
 - Other tools: Git, Jupytr Notebook, Linux Bash, HTML
 
-## Experience
+## 💼 Work experience
 **Karachaganak Petroleum Operating JV (Chevron, Shell, ENI, Lukoil, KazMunayGas)** (2018-present)   
 Senior Reservoir Modeling Engineer
 - Automation of engineering tasks with Python PyAutoGUI
@@ -35,6 +35,7 @@ Senior Reservoir Engineer
 - Analysis of geology & reservoir data with Python and Power BI
 - Built various polynomial regression models and predicted oil and gas production rates for 1-5 years using Time series forecasting
 
+## 🔬 Research Experience
 **Nazarbayev University** (2020-2024)
 Research
 - CO2 sequestration modelling and uncertainty study using Machine learning algorithms. Article is published in Energies journal: [publication is here](https://doi.org/10.3390/en14238023) & presented at InterPore conference in Abu-Dhabi, UAE
@@ -44,7 +45,7 @@ Research
 Robotic process automation engineer
 - Automation of various tasks with UiPath software and Python
 
-## Education
+## 🎓 Education
 **BSc in Computer Science** | TUSUR, Russia | 2017-2022 | BSc project: Software for correction of well test rates built with Python
 **MSc in Petroleum engineering** | Heriot-Watt University, UK | 2010-2011 | Degree with Distinction | MSc project: CO2 geological sequestration in Bunter formation, UK
 **BSc in Petroleum engineering** | Satbayev University, KZ | 2006-2010 | Degree with Distinction (GPA: 3.97/4) | BSc project: Increasing oil production by vibration/wave technology

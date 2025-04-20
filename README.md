@@ -9,7 +9,7 @@ Expert in reservoir simulation with Advanced Analytics and Programming skills, D
 - BI Tools: Power BI, Tableau, Spotfire
 - Data Science: Probability & Statistics, Linear Algebra, Mathematics, Basic Algorithms, Machine & Deep Learning, Databases, Advanced Excel
 - Software tools: INTERSECT, ECLIPSE, t-Navigator, Nexus, VIP, Petrel, PVTi, SCAL, MEPO, PIPESIM, OFM, Avocet IAM, Saphir, GAP, Prosper, MBAL
-- Other tools: Git, Jupytr Notebook, Linux Bash, HTML
+- Other tools: Git, Jupyter Notebook, Linux Bash, HTML
 
 ## 💼 Work experience
 **Karachaganak Petroleum Operating (Joint Venture: Chevron, Shell, ENI, Lukoil, KazMunayGas)** (2018-present)   
